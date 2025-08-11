@@ -1,0 +1,1 @@
+Esta capa lo que hace es Casos de uso y lógica de aplicación
